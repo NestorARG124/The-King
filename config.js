@@ -36,7 +36,7 @@ global.libreria = 'Baileys'
 global.baileys = 'V 6.7.8'
 global.vs = '2.0.0'
 global.languaje = 'Español'
-global.nameqr = 'Yuki Suou - Bot'
+global.nameqr = '༺𝑁𝐸𝑆𝑇☯𝑅༻ ᴮᴼˢˢ'
 global.sessions = 'YukiSession'
 global.jadi = 'YukiJadiBot'
 
