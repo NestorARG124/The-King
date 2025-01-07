@@ -38,12 +38,12 @@ global.vs = '2.0.0'
 global.languaje = 'Español'
 global.nameqr = '༺𝑁𝐸𝑆𝑇☯𝑅༻ ᴮᴼˢˢ'
 global.sessions = 'YukiSession'
-global.jadi = 'YukiJadiBot'
+global.jadi = '༺𝑁𝐸𝑆𝑇☯𝑅༻ ᴮᴼˢˢ'
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
 global.packsticker = `♾ ━━━━━━━━\n├ ɓσƭ:\n├ ρяοριєταяιο:\n├ ƒєϲнα ∂є ϲяєαϲιόи:\n├ нοяα:\n♾━━━━━━━━`
 global.packname = `༺𝑁𝐸𝑆𝑇☯𝑅༻ ᴮᴼˢˢ`
-global.author = `♾━━━━━━━━\n⇝͟͞ ۵̤͟𝐘𝐮𝐤𝐢_𝐒𝐮𝐨𝐮-𝐁𝐨𝐭̈♡̵̑ ͟͞ ⋆\n⇝ ۵-̱̅ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜-͞ˍ\n⇝ ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}\n⇝ ${moment.tz('America/Los_Angeles').format('HH:mm:ss')} \n♾━━━━━━━━\n\n\n\nѕτιϲκєя ϐγ: ৎ୭࠭͢𝐘𝐮𝐤𝐢_𝐒𝐮𝐨𝐮-𝐁𝐨𝐭ⷭ𓆪͟͞ `;
+global.author = `༺𝑁𝐸𝑆𝑇☯𝑅༻ ᴮᴼˢˢ`;
 global.wm = '༺𝑁𝐸𝑆𝑇☯𝑅༻ ᴮᴼˢˢ';
 global.titulowm = '༺𝑁𝐸𝑆𝑇☯𝑅༻ ᴮᴼˢˢ';
 global.titulowm2 = `༺𝑁𝐸𝑆𝑇☯𝑅༻ ᴮᴼˢˢ`
